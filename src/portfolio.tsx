@@ -160,6 +160,15 @@ const workExperiences = {
       date: "May 2021 - August 2021",
       desc: "My future internship at the end of this semester 💪",
       descBullets: [],
+    },{
+      role: "Web Developpement Intern",
+      company: "Trisotech",
+      companylogo:
+        "https://media-exp1.licdn.com/dms/image/C4D0BAQGbEu7ZZHG86g/company-logo_200_200/0/1582733562887?e=1622073600&v=beta&t=7Nn_BqjY3RwIhFyaLVZ7MSinWboNF8XO3StU0AFUkEQ",
+      date: "April 2020 - August 2020",
+      desc: emoji(
+        "I've solo created a translation plugin incorporated in the company's main program 🔥"
+      ),
     },
     {
       role: "Field Technician",
@@ -169,16 +178,6 @@ const workExperiences = {
       date: "April 2019 – Present",
       desc:
         "Connecting Canadians to High Speed Internet and Helping Further Deploy Fiber Optics Network",
-    },
-    {
-      role: "Web Developpement Intern",
-      company: "Trisotech",
-      companylogo:
-        "https://media-exp1.licdn.com/dms/image/C4D0BAQGbEu7ZZHG86g/company-logo_200_200/0/1582733562887?e=1622073600&v=beta&t=7Nn_BqjY3RwIhFyaLVZ7MSinWboNF8XO3StU0AFUkEQ",
-      date: "April 2020 - August 2020",
-      desc: emoji(
-        "I've solo created a translation plugin incorporated in the company's main program 🔥"
-      ),
     },
   ],
 };
@@ -346,7 +345,7 @@ const contactInfo = {
     "Want to connect? Message me on my email or at any of the following links 😃.",
   number: "",
   email_address: "gabroberge27@gmail.com",
-  display: false
+  display: false,
 };
 
 // Twitter Section
