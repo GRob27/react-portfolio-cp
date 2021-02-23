@@ -25,9 +25,6 @@ const Header = () => {
   const viewAchievement = achievementSection.display;
   const viewBlog = blogSection.display;
   const viewTalks = talkSection.display;
-
-  console.log(viewEducation);
-
   return (
     <Headroom>
       <header className={isDark ? "dark-menu header" : "header"}>

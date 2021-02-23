@@ -48,11 +48,7 @@ const Profile = () => {
           setProfileFunction(result.data.user);
         })
         .catch((error) => {
-          console.log(error);
           setProfileFunction("Error");
-          console.log(
-            "Because of this Error Contact Section is Showed instead of Profile"
-          );
           openSource.showGithubProfile = "false";
         });
     }
