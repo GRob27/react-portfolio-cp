@@ -111,7 +111,7 @@ const educationInfo = {
       logo:
         "https://lh5.googleusercontent.com/-t17Q4NdtsAg/AAAAAAAAAAI/AAAAAAAAAAA/dqOn8BkfJoQ/s66-p-k-no-ns-nd/photo.jpg",
       subHeader: "B.Eng. in Software engineering",
-      duration: "September 2029 - April 2023",
+      duration: "September 2019 - April 2023",
       desc: "",
       descBullets: [],
     },
